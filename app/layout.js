@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Selvi Steels",
-  description: "Furniture manufacturing order and owner maintenance app"
+  title: "Steels Order Management App",
+  description: "Steel order management and owner maintenance app"
 };
 
 export default function RootLayout({ children }) {

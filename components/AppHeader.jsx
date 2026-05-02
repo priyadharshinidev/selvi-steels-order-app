@@ -23,8 +23,8 @@ export default function AppHeader() {
   return (
     <header className="app-header">
       <Link className="brand" href="/orders">
-        <span className="brand-mark">SS</span>
-        <span>Selvi Steels</span>
+        <span className="brand-mark">SO</span>
+        <span>Steels Order Management App</span>
       </Link>
       <nav>
         <Link href="/orders">

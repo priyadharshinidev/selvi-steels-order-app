@@ -37,7 +37,7 @@ export default function LoginPage() {
     <main className="login-page">
       <section className="login-panel">
         <p className="eyebrow">Furniture Manufacturing</p>
-        <h1>Selvi Steels</h1>
+        <h1>Steels Order Management App</h1>
         <p className="login-copy">
           Sign in with the registered customer or owner details.
         </p>

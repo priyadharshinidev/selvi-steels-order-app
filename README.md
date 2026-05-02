@@ -1,4 +1,4 @@
-# Furniture Manufacturing App
+# Steels Order Management App
 
 Next.js app for steel cot leg customer ordering and owner maintenance.
 
